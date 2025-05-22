@@ -1,6 +1,10 @@
 <h1 align="center">🌟 Shubham Dhole | DevOps Engineer 🚀</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhamdhole97&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Infra+Specialist;CI/CD+Pipeline+Expert;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
@@ -67,20 +71,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdhole97&layout=compact&theme=radical&border_radius=15" width="350" />
 </p>
 
-<!-- Optional Activity Graph -->
-<!--
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubhamdhole97&theme=github-compact" />
-</p>
--->
-
 ---
 
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="mailto:shubhamdhole97@gmail.com"><img src="https://img.shields.io/badge/Email-shubhamdhole97@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/shubhamdhole97/"><img src="https://img.shields.io/badge/GitHub-shubhamdhole97-red?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:shubhamdhole97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shubhamdhole97@gmail.com-blue?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/shubhamdhole97/">
+    <img src="https://img.shields.io/badge/GitHub-shubhamdhole97-red?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/shubhamdhole97/">
+    <img src="https://img.shields.io/badge/LinkedIn-shubhamdhole97-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
