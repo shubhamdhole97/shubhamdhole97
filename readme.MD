@@ -58,7 +58,7 @@
 
 ## 🎓 Education
 
-📚 **Postgraduate in DevOps**  
+ 
 🏫 **Postgraduate in Information System Security** – *NIELIT Chennai*  
 🎓 **B.E. in Electronics & Telecommunication Engineering** – *Mumbai University*
 
